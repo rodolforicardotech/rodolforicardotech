@@ -25,9 +25,13 @@ Here are some ideas to get you started:
 
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Referências:
 <ol>
-<li>https://git.io/streak-stats by [DenverCoder](https://github.com/DenverCoder1/github-readme-streak-stats)</li>
-<li>https://github.com/Envoy-VC/Badges-for-GitHub by [Envoy-VC](https://github.com/Envoy-VC/Badges-for-GitHub)</li>
+  <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats by DenverCoder</a></li>
+  <li><a href="https://github.com/Envoy-VC/Badges-for-GitHub">Badges for GitHub by Envoy-VC</a></li>
 </ol>
