@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 
 Referências:
 https://git.io/streak-stats by [DenverCoder](https://github.com/DenverCoder1/github-readme-streak-stats)
+https://github.com/Envoy-VC/Badges-for-GitHub by [Envoy-VC](https://github.com/Envoy-VC/Badges-for-GitHub)
