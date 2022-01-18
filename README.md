@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ⚽️ Cientista de Dados em 2022 <br>
 👨🏽‍💻 Projeto 1 Commit por Dia - 2022<br>
 📝 Iniciação Científica<br>
-🏃🏽‍♂️ Exercíte-se Todo Dia<br>
+🏃🏽‍♂️ Exercícios Todos os Dias<br>
 
 
 
