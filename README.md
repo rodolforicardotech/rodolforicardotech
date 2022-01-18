@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 -->
 
 
-
-
+### Projetos Atuais:
+Analista de Dados do Sociedade Esportiva Salinas <br>
+Projeto 1 Commit por Dia - 2022<br>
+Iniciação Científica<br>
+Exercíte-se Todo Dia<br>
 
 
 
