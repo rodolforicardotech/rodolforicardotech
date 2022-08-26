@@ -8,22 +8,6 @@
 ---
 <br>
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodolforicardotech&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
-
-<!--
-**rodolforicardotech/rodolforicardotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 Olá! Assim como a tecnologia, minha vida está em constante movimento. <br>
 Me formei em Música e logo depois concluí uma pós-graduação em Educação. <br>
@@ -41,10 +25,6 @@ Um abraço e bons códigos!<br>
 ### Projetos Portfólio
 * [Modelo de Recomendação de Produtos - Atlântico Academy Future](https://github.com/rodolforicardotech/datadiscoveryone)
   * Projeto que reuniu análise, tratamento, manipulação, raspagem de dados e criação de modelo, culminando com um web app no Streamlit para um sistema de recomendação de sites de Marketplace. A base de dados utilizada para o treinamento foi a da Olist, disponível no Kaggle.
-
-
-<!-- 👨🏽‍💻 Projeto 1 Commit por Dia - 2022<br> -->
-<!-- ~~🏃🏽‍♂️ Exercícios Todos os Dias [EM PAUSA!]~~<br> -->
 
 
 ![](https://github.com/rodolforicardotech/rodolforicardotech/blob/main/github-user-contribution.svg)
