@@ -19,8 +19,8 @@ Os estudos continuam e logo abaixo você pode ver alguns dos meus projetos.<br>
 Um abraço e bons códigos!<br>
 
 ### Projetos Atuais:
-- ⚽️ Cientista de Dados em 2022 <br>
-- 📝 Iniciação Científica<br>
+- ⚽️ Cientista de Dados em 2022 - YouTube <br>
+- [📝 Iniciação Científica](https://portal.estacio.br/media/4685238/aplica%C3%A7%C3%A3o-de-algoritmos-de-intelig%C3%AAncia-artificial-para-a-melhoria-da-qualidade-do-sono-na-primeira-inf%C3%A2ncia.pdf)<br>
 
 ### Projetos Portfólio
 * [Modelo de Recomendação de Produtos - Atlântico Academy Future](https://github.com/rodolforicardotech/datadiscoveryone)
