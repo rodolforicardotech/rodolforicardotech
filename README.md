@@ -58,5 +58,5 @@ Um abraço e bons códigos!<br>
 <ol>
   <s><li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats by DenverCoder</a></li></s>
   <li><a href="https://github.com/Envoy-VC/Badges-for-GitHub">Badges for GitHub by Envoy-VC</a></li>
-  <li><a href="https://github.com/Platane/snk">Snake GitHub</li>
+  <li><a href="https://github.com/Platane/snk">Snake GitHub by Platane</li>
 </ol>
