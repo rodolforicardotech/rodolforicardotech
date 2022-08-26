@@ -35,10 +35,16 @@ Os estudos continuam e logo abaixo você pode ver alguns dos meus projetos.<br>
 Um abraço e bons códigos!<br>
 
 ### Projetos Atuais:
-⚽️ Cientista de Dados em 2022 <br>
-👨🏽‍💻 Projeto 1 Commit por Dia - 2022<br>
-📝 Iniciação Científica<br>
-~~🏃🏽‍♂️ Exercícios Todos os Dias [EM PAUSA!]~~<br>
+- ⚽️ Cientista de Dados em 2022 <br>
+- 📝 Iniciação Científica<br>
+
+### Projetos Portfólio
+* [Modelo de Recomendação de Produtos - Atlântico Academy Future](https://github.com/rodolforicardotech/datadiscoveryone)
+  * Projeto que reuniu análise, tratamento, manipulação, raspagem de dados e criação de modelo, culminando com um web app no Streamlit para um sistema de recomendação de sites de Marketplace. A base de dados utilizada para o treinamento foi a da Olist, disponível no Kaggle.
+
+
+<!-- 👨🏽‍💻 Projeto 1 Commit por Dia - 2022<br> -->
+<!-- ~~🏃🏽‍♂️ Exercícios Todos os Dias [EM PAUSA!]~~<br> -->
 
 
 ![](https://github.com/rodolforicardotech/rodolforicardotech/blob/main/github-user-contribution.svg)
