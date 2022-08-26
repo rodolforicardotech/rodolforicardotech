@@ -1,4 +1,4 @@
-## Olá, sou Rodolfo! Bora codar! 👨🏽‍💻😎
+<!-- ## Olá! 👨🏽‍💻😎 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolforicardotech/)
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=blog&logoColor=white)](https://rodolforicardotech.github.io)
@@ -9,7 +9,7 @@
 ---
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodolforicardotech&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodolforicardotech&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
 
 <!--
 **rodolforicardotech/rodolforicardotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Olá! Assim como a tecnologia, minha vida está em constante movimento. <br>
+Me formei em Música e logo depois concluí uma pós-graduação em Educação. <br>
+Trabalhei com Música desde o primeiro semestre da faculdade até janeiro de 2022. <br>
+Essa bagagem de mercado + academia me ajudou bastante quando entrei na minha segunda graduação, <br>
+que concluo no fim do ano de 2022: Análise e Desenvolvimento de Sistemas! <br>
+Os estudos continuam e logo abaixo você pode ver alguns dos meus projetos.<br>
+
+Um abraço e bons códigos!<br>
 
 ### Projetos Atuais:
 ⚽️ Cientista de Dados em 2022 <br>
