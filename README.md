@@ -12,7 +12,7 @@ Olá! Assim como a tecnologia, minha vida está em constante movimento. <br>
 Me formei em Música e logo depois concluí uma pós-graduação em Educação. <br>
 Trabalhei com Música desde o primeiro semestre da faculdade até janeiro de 2022. <br>
 Essa bagagem de mercado + academia me ajudou bastante quando entrei na minha segunda graduação, <br>
-que concluo no fim do ano de 2022: Análise e Desenvolvimento de Sistemas! <br>
+que concluí no fim do ano de 2022: Análise e Desenvolvimento de Sistemas! <br>
 Os estudos continuam e logo abaixo você pode ver alguns dos meus projetos.<br>
 
 Um abraço e bons códigos!<br>
